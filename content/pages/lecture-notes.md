@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b2e5ff96-5d5c-e10e-8b5f-e12d72e56a00
 ---
@@ -285,7 +288,7 @@ Ceiling T's
 
 Tromsdorff Effect
 
-Instantaneous Pn
+Instantaneous P{{< sub "n" >}}
 
 
 {{< tdclose >}}

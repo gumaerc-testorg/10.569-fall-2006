@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 57d57cf4-c6ef-4fa4-1f1a-fe73b0542bdd
 ---
@@ -199,7 +202,7 @@ Crosslinking and Branching
 
 Network Formation and Gelation
 
-Carothers Equation: Pn Approach
+Carothers Equation: P{{< sub "n" >}} Approach
 
 
 {{< tdclose >}}
@@ -217,7 +220,7 @@ Sections 2-9 and 2-10a.
 
 Network Formation
 
-Statistical Approach: Pw Approach
+Statistical Approach: P{{< sub "w" >}} Approach
 
 A Word on MWD for Nonlinear Polymerizations
 
@@ -329,7 +332,7 @@ Ceiling T's
 
 Tromsdorff Effect
 
-Instantaneous Pn
+Instantaneous P{{< sub "n" >}}
 
 
 {{< tdclose >}}
