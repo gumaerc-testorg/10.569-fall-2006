@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Schedule of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b2e5ff96-5d5c-e10e-8b5f-e12d72e56a00
 ---
@@ -40,7 +44,7 @@ Introduction to Step Growth
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec01_09062006))
+({{% resource_link 50f0b385-2033-2427-a136-3d27bf2b098e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +72,7 @@ Application Example: Common Polyesters
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec02_09082006))
+({{% resource_link 5474dc57-6b06-69a8-a09e-9b70e39b1239 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ Closed vs. Open Systems
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec03_09112006))
+({{% resource_link c7b7a987-f7d5-b66e-0832-be42fbf52b7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +114,7 @@ Homogeneous Solution and Bulk Polymerization
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec04_09132006))
+({{% resource_link 42cea97d-9477-9a0a-ebf9-a566b94cfa7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +132,7 @@ Application Examples: Polyamides
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec05_09152006))
+({{% resource_link d9f9ac70-21b0-d0f4-18d3-d3c90dbfb94b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +154,7 @@ Segmented and Block Copolymers from Step Condensation Methods
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec06_09182006))
+({{% resource_link 2182343e-fb30-b3ca-d771-46888fbd9e03 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +174,7 @@ Carothers Equation: Pn Approach
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec07_09202006))
+({{% resource_link 9910680d-77a2-d694-a1c1-d89b82fd0e70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +194,7 @@ A Word on MWD for Nonlinear Polymerizations
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec08_09222006))
+({{% resource_link 827c178d-9c72-d5f2-bed8-993ce0cfd5dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +214,7 @@ New "one-pot" Approaches to Hyperbranced Species
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec09_09272006))
+({{% resource_link c866e4c0-743f-835b-9de2-ccde874fde4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +232,7 @@ New "one-pot" Approaches to Hyperbranced Species
 Introduction to Radical Polymerization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10_10022006))
+({{% resource_link ba969152-6a1c-c09e-c699-07e87e248f7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +250,7 @@ Homogeneous Reaction Rate Kinetics
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11_10042006))
+({{% resource_link 5f29ddeb-2d4c-ac65-f4e2-0f060ca626a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +272,7 @@ Energetics
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12_10062006))
+({{% resource_link 061c2bb5-0546-c190-fbd5-e460dbab5464 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,12 +289,12 @@ Ceiling T's
 
 Tromsdorff Effect
 
-Instantaneous Pn
+Instantaneous P{{< sub "n" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13_10112006))
+({{% resource_link 31900ba4-b74f-2d20-eb0e-7a3c36081a2f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +306,7 @@ Instantaneous Pn
 Processing Approaches: Emulsion Polymerization Processes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14_10132006))
+({{% resource_link 3817759b-f670-7561-d937-a33c1a489d9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +326,7 @@ Polyethylene Via Radical Polymerization
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15_10162006))
+({{% resource_link a1218aa4-a6eb-17e7-888c-7a74d96185ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +344,7 @@ Stereochemistry of Polymers
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16_10182006))
+({{% resource_link 3ea8fa01-121f-001d-e7c2-160cb8595922 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -352,7 +356,7 @@ Stereochemistry of Polymers
 Stereoregular Polymerizations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17_10202006))
+({{% resource_link ed56641e-05ff-6ae2-4f09-c38303937d38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +368,7 @@ Stereoregular Polymerizations
 Radical Copolymerization: Alternating to Block Copolymers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec18_10232006))
+({{% resource_link cc3ccb3d-fbaa-dee1-6f57-9949fd7b6a78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -388,7 +392,7 @@ Introduction to New Developments from Brookhart, et al.
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19_10272006))
+({{% resource_link db28ba17-32e3-02fb-413a-de1943d5ce10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -408,7 +412,7 @@ Kinetics of "Nonliving" Anionic Polymerization
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec20_10302006))
+({{% resource_link e51ca6db-1ae5-2f5f-45c4-8906afe1bd22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -426,7 +430,7 @@ Effects of Initiator and Solvent
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec21_11012006))
+({{% resource_link 42d2e82b-5851-36f5-b684-9919a0ee4449 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -438,7 +442,7 @@ Effects of Initiator and Solvent
 Anionic Block Copolymerization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec22_11032006))
+({{% resource_link 7c5d325f-59b8-be3b-2140-2004e23c80e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -458,7 +462,7 @@ Telechelic Oligomers and Novel Architectures Using Coupling Techniques
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec23_11062006))
+({{% resource_link b97c14f3-d5dc-65a0-a0f8-aa8a80bfff49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -478,7 +482,7 @@ Kinetics
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec24_11082006))
+({{% resource_link 6d76c50c-269d-f2c3-0c71-0878b16ab462 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,7 +504,7 @@ Polyvinyl Ethers
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec25_11132006))
+({{% resource_link 8b4bd834-0e1c-48a4-77d3-17c4499f925e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -520,7 +524,7 @@ Other Ring Opening Polymerizations
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec26_11152006))
+({{% resource_link afedd801-9b34-7b15-931b-aada5cafed95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -532,7 +536,7 @@ Other Ring Opening Polymerizations
 Polysiloxanes, Lactams, etc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec27_11172006))
+({{% resource_link 53b1609c-02f9-921d-e10d-a82c83970147 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -554,7 +558,7 @@ Introduction to Polymer Functionalization: Motivations, Yield, Crystallinity, So
 Common Functionalization Approaches
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec28_11272006))
+({{% resource_link 43a0d3de-4dcc-134a-428c-0583282a39f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -566,7 +570,7 @@ Common Functionalization Approaches
 Functionalization Case Studies: Biomaterials Systems, Liquid Crystal (LC) Polymers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec29_11292006))
+({{% resource_link e1f16879-4f75-aff3-03ac-f71429f8a38f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -593,7 +597,7 @@ Surface Engineering Using Graft Copolymers
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec30_12012006))
+({{% resource_link fe51f8b7-6094-5fa3-974b-d75842124278 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -611,7 +615,7 @@ Atom Transfer Radical Polymerization (ATRP)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec31_12042006))
+({{% resource_link 2a3c93f3-5856-d1cf-4063-cdfebe101cd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -631,7 +635,7 @@ Ring Opening Metathesis Polymerization (ROMP)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec32_12062006))
+({{% resource_link 6ff072c7-a08e-46ef-54fa-fea22c9eab9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -655,7 +659,7 @@ Case Study: Electro-active Polymers
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec33_12082006))
+({{% resource_link e39e9ecb-b400-7a28-61e0-b81c2ce31d50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -667,7 +671,7 @@ Case Study: Electro-active Polymers
 Inorganic Polymer Synthesis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec34_12112006))
+({{% resource_link 757a546f-bec5-ace0-9c26-ac294e2cadb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -685,7 +689,7 @@ Concept of Self-Assembly - From Primary Structure to Complex Structure
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec35_12132006))
+({{% resource_link ae211048-0664-4221-ffeb-9fa87c39fc05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

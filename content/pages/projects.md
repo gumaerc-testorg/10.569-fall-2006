@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains concept paper and its topics, design question about
+  the project and a brief description about the scoring criteria.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: c7edf17b-c995-058b-21ba-81c517a76dcb
 ---

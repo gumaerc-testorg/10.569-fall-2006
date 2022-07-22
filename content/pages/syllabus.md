@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview, grading criteria, prerequisites, and
+  a calendar for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 77a907bd-ad47-8b11-490b-5de0a836f381
 ---
@@ -31,7 +35,7 @@ Supplementary Handouts will be used frequently and will be handed out in lecture
 Grading
 -------
 
-There will be three hour-long exams, open book and notes. Each exam will be worth 25% of the class credit. There will be occasional problem sets, which will be worth a total of 5% credit. A final design project paper will be due at the end of the term, worth 20% credit. The details of the design project can be found in [projects]({{< baseurl >}}/pages/projects).
+There will be three hour-long exams, open book and notes. Each exam will be worth 25% of the class credit. There will be occasional problem sets, which will be worth a total of 5% credit. A final design project paper will be due at the end of the term, worth 20% credit. The details of the design project can be found in {{% resource_link c7edf17b-c995-058b-21ba-81c517a76dcb "projects" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -256,7 +260,7 @@ Crosslinking and Branching
 
 Network Formation and Gelation
 
-Carothers Equation: Pn Approach
+Carothers Equation: P{{< sub "n" >}} Approach
 
 
 {{< tdclose >}}
@@ -274,7 +278,7 @@ Carothers Equation: Pn Approach
 
 Network Formation
 
-Statistical Approach: Pw Approach
+Statistical Approach: P{{< sub "w" >}} Approach
 
 A Word on MWD for Nonlinear Polymerizations
 
@@ -400,7 +404,7 @@ Ceiling T's
 
 Tromsdorff Effect
 
-Instantaneous Pn
+Instantaneous P{{< sub "n" >}}
 
 
 {{< tdclose >}}
